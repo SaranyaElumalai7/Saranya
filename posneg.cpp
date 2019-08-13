@@ -6,15 +6,15 @@ int main()
     cin>>n;
     if(n>0)
       {
-        cout<<"positive";
+        cout<<"Positive";
       }
     else if(n<0)
       {
-        cout<<"negative";
+        cout<<"Negative";
       }
     else
       {
-        cout<<"zero";
+        cout<<"Zero";
       }
     
 }
